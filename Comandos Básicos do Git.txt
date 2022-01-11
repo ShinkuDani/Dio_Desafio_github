@@ -1,0 +1,8 @@
+Comandos Básicos do Git:
+
+-git init: Começa o git dentro de um repositório.
+
+- git add * - adiciona as modificações e arquivos novos
+
+-git commit -m "Mensagem" - Valida as modificações e conjunto com uma mensagem/descrição sobre as modificações e adições.
+
