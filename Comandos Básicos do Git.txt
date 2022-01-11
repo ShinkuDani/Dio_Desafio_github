@@ -6,3 +6,5 @@ Comandos Básicos do Git:
 
 -git commit -m "Mensagem" - Valida as modificações e conjunto com uma mensagem/descrição sobre as modificações e adições.
 
+-git push origin main - Manda o arquivos ou modificações commitadas, para a nuvem
+
